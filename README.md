@@ -1,16 +1,36 @@
-# Everblush Bat
-Everblush colors brought into bat, which is based on the syntax of [sublime-snazzy](https://github.com/greggb/sublime-snazzy)
+<h2 align="center">Everblush Bat Themes</h2>
 
-![](https://github.com/mehedirm6244/bat/blob/main/screenshot.png)
+<p>
+<h4 align="center"> <i>Bat(cat alt) Theme</i> </h4>
+</p> 
 
-## How to install?
-```
+<p align="center">
+<img src="https://img.shields.io/github/stars/Mangeshrex/everblush.vim?color=e5c76b&labelColor=22292b&style=for-the-badge"> <img src="https://img.shields.io/github/issues/Everblush/bat?=67b0e8&labelColor=22292b&style=for-the-badge">
+<img src="https://img.shields.io/static/v1?label=license&message=MIT&color=8ccf7e&labelColor=22292b&style=for-the-badge">
+<img src="https://img.shields.io/github/forks/Everblush/bat?color=e74c4c&labelColor=1b2224&style=for-the-badge"> 
+</p>
+
+# Preview
+<p align="center">
+<img src="./bat.png" alt="Preview Image">
+</p>
+
+# Installation
+
+>Enter the below listed commands if you haven't installed any theme before you have to generate the configuration files for bat and theme dir.
+
+```sh 
+bat --generate-config-file
 mkdir -p "$(bat --config-dir)/themes"
 cd "$(bat --config-dir)/themes"
+```
+
+>If you already have the configuration files just  
+```sh
+cd ~/.config/bat/themes/
 git clone https://github.com/mehedirm6244/bat
 bat cache --build
 ```
-Check if the theme is installed successfully by looking at the output of `bat --list-themes`
 
-To apply this theme, add the following line to the config file of bat:
-`--theme="Everblush"
+# Credits 💝
+- [mehedirm6244](https://github.com/mehedirm6244)
