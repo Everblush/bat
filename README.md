@@ -28,7 +28,7 @@ cd "$(bat --config-dir)/themes"
 >If you already have the configuration files just  
 ```sh
 cd ~/.config/bat/themes/
-git clone https://github.com/mehedirm6244/bat
+git clone https://github.com/Everblush/bat
 bat cache --build
 ```
 
