@@ -10,7 +10,7 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#181f21</string>
+				<string>#141b1e</string>
 				<key>caret</key>
 				<string>#97979B</string>
 				<key>foreground</key>
@@ -18,7 +18,7 @@
 				<key>invisibles</key>
 				<string>#686868</string>
 				<key>lineHighlight</key>
-				<string>#22292b</string>
+				<string>#232a2d</string>
 				<key>selection</key>
 				<string>#67b0e8</string>
 			</dict>
@@ -97,7 +97,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#e06e6e</string>
+				<string>#e57474</string>
 			</dict>
 		</dict>
 		<dict>
@@ -110,7 +110,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#e06e6e</string>
+				<string>#e57474</string>
 			</dict>
 		</dict>
 		<dict>
@@ -123,7 +123,7 @@
 				<key>fontStyle</key>
 				<string>italic</string>
 				<key>foreground</key>
-				<string>#6cd0ca</string>
+				<string>#67b0e8</string>
 			</dict>
 		</dict>
 		<dict>
@@ -136,7 +136,7 @@
 				<key>fontStyle</key>
 				<string>underline</string>
 				<key>foreground</key>
-				<string>#6cd0ca</string>
+				<string>#67b0e8</string>
 			</dict>
 		</dict>
 		<dict>
@@ -149,7 +149,7 @@
 				<key>fontStyle</key>
 				<string>italic underline</string>
 				<key>foreground</key>
-				<string>#6cd0ca</string>
+				<string>#67b0e8</string>
 			</dict>
 		</dict>
 		<dict>
@@ -162,7 +162,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#6cd0ca</string>
+				<string>#67b0e8</string>
 			</dict>
 		</dict>
 		<dict>
@@ -201,7 +201,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#6cd0ca</string>
+				<string>#67b0e8</string>
 			</dict>
 		</dict>
 		<dict>
@@ -260,11 +260,11 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#e06e6e</string>
+				<string>#e57474</string>
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#F1F1F0</string>
+				<string>#e57474</string>
 			</dict>
 		</dict>
 		<dict>
@@ -275,7 +275,7 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#e06e6e</string>
+				<string>#e57474</string>
 				<key>foreground</key>
 				<string>#67b0e8</string>
 			</dict>
@@ -286,6 +286,6 @@
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>semanticClass</key>
-	<string>theme.dark.monokai</string>
+	<string>theme.dark.everblush</string>
 </dict>
 </plist>
