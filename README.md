@@ -5,9 +5,9 @@
 </p> 
 
 <p align="center">
-<img src="https://img.shields.io/github/stars/Everblush/bat?color=e5c76b&labelColor=22292b&style=for-the-badge"> <img src="https://img.shields.io/github/issues/Everblush/bat?=67b0e8&labelColor=22292b&style=for-the-badge">
-<img src="https://img.shields.io/static/v1?label=license&message=MIT&color=8ccf7e&labelColor=22292b&style=for-the-badge">
-<img src="https://img.shields.io/github/forks/Everblush/bat?color=e74c4c&labelColor=1b2224&style=for-the-badge"> 
+<img src="https://img.shields.io/github/stars/Everblush/bat?color=e5c76b&labelColor=1e2528b&style=for-the-badge"> <img src="https://img.shields.io/github/issues/Everblush/bat?=67b0e8&labelColor=1e2528&style=for-the-badge">
+<img src="https://img.shields.io/static/v1?label=license&message=MIT&color=8ccf7e&labelColor=1e2528&style=for-the-badge">
+<img src="https://img.shields.io/github/forks/Everblush/bat?color=e57474&labelColor=1e2528&style=for-the-badge"> 
 </p>
 
 # Preview
