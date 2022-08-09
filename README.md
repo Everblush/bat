@@ -1,3 +1,7 @@
+<div align="center">
+<img  src="https://raw.githubusercontent.com/Everblush/assets/main/logo.png" height="200px" width="200px" alt="logo">
+</div> 
+
 <h2 align="center">Everblush Bat Themes</h2>
 
 <p>
@@ -12,7 +16,7 @@
 
 # Preview
 <p align="center">
-<img src="./bat.png" alt="Preview Image">
+<img src="https://raw.githubusercontent.com/Everblush/assets/main/bat/bat.png" alt="Preview Image">
 </p>
 
 # Installation
